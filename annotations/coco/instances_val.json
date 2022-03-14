@@ -751,13 +751,19 @@
       "id": 4694
     },
     {
-      "file_name": "004724.jpg",
+      "file_name": "004718.jpg",
+      "height": 300,
+      "width": 400,
+      "id": 4718
+    },
+    {
+      "file_name": "004724.xml",
       "height": 1080,
       "width": 1920,
       "id": 4724
     },
     {
-      "file_name": "004746.jpg",
+      "file_name": "004746.xml",
       "height": 1080,
       "width": 1920,
       "id": 4746
@@ -12597,6 +12603,51 @@
       ],
       "category_id": 1,
       "id": 789,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 3325,
+      "iscrowd": 0,
+      "image_id": 4718,
+      "bbox": [
+        122,
+        120,
+        95,
+        35
+      ],
+      "category_id": 0,
+      "id": 790,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 1892,
+      "iscrowd": 0,
+      "image_id": 4718,
+      "bbox": [
+        88,
+        87,
+        44,
+        43
+      ],
+      "category_id": 0,
+      "id": 791,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 1247,
+      "iscrowd": 0,
+      "image_id": 4718,
+      "bbox": [
+        60,
+        111,
+        29,
+        43
+      ],
+      "category_id": 0,
+      "id": 792,
       "ignore": 0,
       "segmentation": []
     },
